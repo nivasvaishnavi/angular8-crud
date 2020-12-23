@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-For the porject's step by step code, refer the link below
+For the porject's step by step code, refer this link:
 https://www.devglan.com/angular/angular-8-crud-example
 
 ## Other Angular Resources
