@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 For the porject's step by step code, refer this link:
 https://www.devglan.com/angular/angular-8-crud-example
 
+Other CRUD operations reference link: https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/
+
 ## Other Angular Resources
 
 [Spring Boot Angular 8](https://www.devglan.com/spring-boot/spring-boot-angular-8-example)
